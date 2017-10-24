@@ -135,6 +135,15 @@ body {
   color:#303030;
 }
 
+@media screen and (max-width: 400px) {
+    .para-one {
+        width: 100%;
+    }
+    .para-two {
+        width: 100%;
+    }
+}
+
 #footer {
   clear: both;
   position: relative;
